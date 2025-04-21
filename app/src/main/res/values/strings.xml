@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">First Game</string>
+    <string name="your_name">Your Name</string>
+    <string name="start">START</string>
+    <string name="high_score">High Score</string>
+    <string name="time">Time</string>
+    <string name="name">Name</string>
+    <string name="image">Image</string>
+    <string name="score">Score = %1$d</string>
+</resources>
