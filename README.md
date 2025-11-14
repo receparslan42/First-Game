@@ -13,7 +13,7 @@ A simple, fast-paced tap game built with Android (Java). Tap the cat that appear
 
 | Game Start                                                              | Gameplay                                                                 | Game Over                                                            |
 |-------------------------------------------------------------------------|--------------------------------------------------------------------------|----------------------------------------------------------------------|
-| <img src="screenshots/start_screen.jpg" alt="Game Start" width="225" /> | <img src="screenshots/gameplay_screen.jpg" alt="Gameplay" width="225" /> | <img src="screenshots/end_screen.jpg" alt="Game Over" width="225" /> |
+| <img src="screenshots/start_screen.jpg" alt="Game Start" width="250" /> | <img src="screenshots/gameplay_screen.jpg" alt="Gameplay" width="250" /> | <img src="screenshots/end_screen.jpg" alt="Game Over" width="250" /> |
 
 ## Tech Stack
 - Language: Java 8
